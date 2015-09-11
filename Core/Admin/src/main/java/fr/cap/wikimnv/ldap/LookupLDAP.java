@@ -9,7 +9,7 @@ import javax.naming.directory.InitialDirContext;
 import javax.naming.directory.SearchControls;
 import javax.naming.directory.SearchResult;
 
-public class LookupLDAP {
+public class LookupLDAP { 
 
 
 	@SuppressWarnings("unchecked")
